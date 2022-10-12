@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil da Joyce Garcez 😁
+## Bem-vindo(a) ao perfil da Joyce Garcez 😊💓
 
  <div>
    <a href="https://github.com/Joyce-Garcez">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyce-garcez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyce-garcez&layout=compact&langs_count=6&theme=gruvbox"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyce-garcez&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
